@@ -1,7 +1,5 @@
 <?php
-
 echo "abdulloh seni";
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +11,7 @@ echo "abdulloh seni";
 </head>
 <body>
    lnformation  technology <br> 
-<?php
+  <?php
 echo"pattani";
  ?>
 </body>
